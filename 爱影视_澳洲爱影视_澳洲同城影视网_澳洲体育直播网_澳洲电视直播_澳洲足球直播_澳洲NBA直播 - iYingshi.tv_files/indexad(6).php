@@ -1,0 +1,1 @@
+document.write('<div class="auto"><div class="det_ad mb30"><a href="https://api.localau.vip/ads/adscenter.php?id=esr" rel="noflollow" target="_blank"><img style="border:0px;width:100%;height:auto;border-radius:5px;" src="//api.localau.vip/static/pic/esr1200100.jpg?day=1624612801>" ></a></div></div>');

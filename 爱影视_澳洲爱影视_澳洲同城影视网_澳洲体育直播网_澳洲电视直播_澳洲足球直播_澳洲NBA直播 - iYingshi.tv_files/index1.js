@@ -1,0 +1,1 @@
+document.write("<iframe class=\"abanner\" frameborder=\"0\" style=\"width:100%;height:110px;\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\" src=\"//api.localau.vip/plugin/index1.php\"></iframe>");
